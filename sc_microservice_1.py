@@ -32,9 +32,6 @@ def hello_name(name):
 # In[ ]:
 
 
-if __name__ == '__main__':
-    app.run(port=80)
-
 
 # In[ ]:
 
